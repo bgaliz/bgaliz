@@ -8,13 +8,13 @@
 ### Visão geral
 <div>
   <a href="https://github.com/bgaliz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=bgaliz&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgaliz&layout=compact&langs_count=16&theme=jolly"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=bgaliz&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgaliz&layout=compact&langs_count=16&theme=jolly"/>
+  </a>
 </div>
 <br>
 <div>
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
