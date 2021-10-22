@@ -45,6 +45,9 @@
   <a target="_blank" href="https://twitch.tv/Gaaliz">
     <img height="40em" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
   </a>
+  <a target="_blank" href="https://www.youtube.com/channel/UCw2EntATHf1eOlR9t1_OCVA">
+    <img height="40em" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
 </div>
 
 <!--
