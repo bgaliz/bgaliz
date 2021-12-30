@@ -1,6 +1,6 @@
-### Saudações, aqui quem fala é Bruno Galiz de Oliveira. 👋
+### Saudações!! 👋
 
-- 📚 Formado em Engenharia da Computação.
+- 📚 Graduado em Engenharia da Computação.
 - 🔭 Trabalhando como desenvolvedor Front-End.
 - 🌱 Atualmente focado em React / React-Native.
 
