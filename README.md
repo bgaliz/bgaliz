@@ -1,11 +1,11 @@
 ### Saudações!! 👋
 
-- 📚 Graduado em Engenharia da Computação.
-- 🔭 Trabalhando como desenvolvedor Front-End.
-- 🌱 Atualmente focado em React / React-Native.
+- 📚 Bachelor at Engineer of Computation.
+- 🔭 Full-Stack Developer with strong knowledge as Front-End.
+- 🌱 Currently focusing on ReactJS.
 
 ##
-### Visão geral
+### General Information
 <div>
   <a href="https://github.com/bgaliz">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=bgaliz&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
@@ -28,7 +28,7 @@
   
 ##
   
-### Redes e Contato
+### Contacts
 <div >
   <a target="_blank" href="https://twitter.com/AnotherDevOne">
     <img height="30em" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
