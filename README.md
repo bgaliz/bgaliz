@@ -1,4 +1,4 @@
-### Saudações!! 👋
+### Welcome traveler!! 👋
 
 - 📚 Bachelor at Engineer of Computation.
 - 🔭 Full-Stack Developer with strong knowledge as Front-End.
