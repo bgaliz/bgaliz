@@ -1,8 +1,9 @@
-### Welcome traveler!! 👋
+### Hi, It's a pleasure to have you here!! 👋
 
 - 📚 Bachelor at Engineer of Computation.
 - 🔭 Full-Stack Developer with strong knowledge as Front-End.
-- 🌱 Currently focusing on ReactJS.
+- 🌱 React.js is my strongest framework experience.
+- ✨ Reaching of being Software Engineer and work abroad!
 
 ##
 ### General Information
