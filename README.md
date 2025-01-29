@@ -2,7 +2,8 @@
 
 - 📚 Bachelor at Engineer of Computation.
 - 🔭 Full-Stack Developer with strong knowledge as Front-End.
-- 🌱 React.js is my strongest framework experience.
+- 🌱 Currently studying Python for personal projects
+- ⚡ React.js is my strongest framework job experience.
 - ✨ Reaching of being Software Engineer and work abroad!
 
 ##
